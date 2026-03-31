@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "World, Hold On (FISHER Rework)",
+  "base_artist": "Bob Sinclar",
+  "createdAt": "2026-03-31T09:08:54.618735Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "World Hold On (FISHER Rework)",
+      "artist": "Bob Sinclar",
+      "has_synced": true,
+      "path": "select/01_World_Hold_On_(FISHER_Rework)_Bob_Sinclar.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "World, Hold On (FISHER Rework)",
+      "artist": "FISHER",
+      "has_synced": true,
+      "path": "select/02_World,_Hold_On_(FISHER_Rework)_FISHER.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "World Hold On (FISHER Rework - Extended Mix)",
+      "artist": "Bob Sinclar",
+      "has_synced": false,
+      "path": "select/03_World_Hold_On_(FISHER_Rework_-_Extended_Mix)_Bob_Sinclar.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "World Hold On (FISHER Rework - Extended Mix)",
+      "artist": "Bob Sinclar",
+      "has_synced": true,
+      "path": "select/04_World_Hold_On_(FISHER_Rework_-_Extended_Mix)_Bob_Sinclar.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "World, Hold On - FISHER Rework",
+      "artist": "Bob Sinclar",
+      "has_synced": true,
+      "path": "select/05_World,_Hold_On_-_FISHER_Rework_Bob_Sinclar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "World Hold On - FISHER Rework",
+      "artist": "Bob Sinclar, FISHER",
+      "has_synced": true,
+      "path": "select/06_World_Hold_On_-_FISHER_Rework_Bob_Sinclar,_FISHER.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "World Hold On - FISHER Rework",
+      "artist": "Bob Sinclar/FISHER",
+      "has_synced": true,
+      "path": "select/07_World_Hold_On_-_FISHER_Rework_Bob_Sinclar_FISHER.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "World, Hold On (Fisher Rework)",
+      "artist": "Bob Sinclar Feat. Steve Edwards",
+      "has_synced": true,
+      "path": "select/08_World,_Hold_On_(Fisher_Rework)_Bob_Sinclar_Feat._Steve_Edwards.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "World Hold On (FISHER Rework - Extended Mix) (feat. Steve Edwards)",
+      "artist": "Bob Sinclar",
+      "has_synced": false,
+      "path": "select/09_World_Hold_On_(FISHER_Rework_-_Extended_Mix)_(feat._Steve_Edwards)_Bob_Sinclar.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "World, Hold On - FISHER Rework",
+      "artist": "Bob Sinclar, Steve Edwards, FISHER",
+      "has_synced": true,
+      "path": "select/10_World,_Hold_On_-_FISHER_Rework_Bob_Sinclar,_Steve_Edwards,_FISHER.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "World Hold On - FISHER Rework",
+      "artist": "Bob Sinclar, FISHER, Steve Edwards",
+      "has_synced": true,
+      "path": "select/11_World_Hold_On_-_FISHER_Rework_Bob_Sinclar,_FISHER,_Steve_Edwards.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "World Hold On - FISHER Rework",
+      "artist": "Bob Sinclar/FISHER/Steve Edwards",
+      "has_synced": true,
+      "path": "select/12_World_Hold_On_-_FISHER_Rework_Bob_Sinclar_FISHER_Steve_Edwards.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "World Hold On (FISHER Rework) (feat. Steve Edwards)",
+      "artist": "Bob Sinclar • FISHER",
+      "has_synced": true,
+      "path": "select/13_World_Hold_On_(FISHER_Rework)_(feat._Steve_Edwards)_Bob_Sinclar_•_FISHER.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "World Hold On (Fisher rework, extended mix)",
+      "artist": "Bob Sinclar",
+      "has_synced": false,
+      "path": "select/14_World_Hold_On_(Fisher_rework,_extended_mix)_Bob_Sinclar.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bob Sinclar Ft. Steve Edwards - World Hold On (Fisher Rework) (Official Video)",
+      "artist": "Bob Sinclar",
+      "has_synced": true,
+      "path": "select/15_Bob_Sinclar_Ft._Steve_Edwards_-_World_Hold_On_(Fisher_Rework)_(Official_Video)_Bob_Sinclar.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "World Hold On (FISHER Rework) (feat. Steve Edwards)",
+      "artist": "Bob Sinclar & FISHER",
+      "has_synced": true,
+      "path": "select/16_World_Hold_On_(FISHER_Rework)_(feat._Steve_Edwards)_Bob_Sinclar_&_FISHER.lrc"
+    }
+  ]
+}
